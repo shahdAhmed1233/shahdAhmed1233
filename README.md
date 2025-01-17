@@ -5,8 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 **MET Academy - Faculty of Management Information Systems**
-- 👨‍💻  I’m currently learning ervery thing about Front-end development.
+- 👨‍💻  I’m currently learning ervery thing about mobile app flutter 
 - 🌱  constantly learning new technologies to improve my skills.
 - 💬 **Ask me about programming or anything related to web development.**
 - 👨‍💻 I am currently training remotely at Azzrk
@@ -26,7 +25,7 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: shahd ahmed</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ibrahim-elsaeed-24b137280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Elsaeed" height="30" width="40" /></a>
 <a href="[https://www.facebook.com/profile.php?id=100007894515591&mibextid=ZbWKwL](https://www.facebook.com/ibrahim.elsaeid.5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ibrahim EL Saeed" height="30" width="40" /></a>
